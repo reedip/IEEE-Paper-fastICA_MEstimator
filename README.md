@@ -1,2 +1,2 @@
-# fastICA_MEstimator
-FastICA with M-Estimators
+The following repo is the collection of my study for https://ieeexplore.ieee.org/document/6719831
+Hope it helps...
